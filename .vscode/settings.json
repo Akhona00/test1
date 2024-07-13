@@ -1,0 +1,11 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 100,
+      "driver": "SQLite",
+      "name": "Akhona",
+      "group": "CyberVengers",
+      "database": "${workspaceFolder:test1}/instance/CashGaurd.db"
+    }
+  ]
+}
